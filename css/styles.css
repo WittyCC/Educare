@@ -1,0 +1,37 @@
+body {
+  background-color: lightcyan;
+  font-family: times;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-weight: bold;
+  text-align: center;
+}
+
+.panel-heading {
+  text-align: center;
+}
+
+.panel-title {
+  color: black;
+  font-weight: bold;
+  font-size: 150%;
+}
+
+.peso {
+  float: right;
+}
+
+.peso-total {
+  font-weight: bold;
+  float: right;
+}
+
+.downpay {
+  text-align: center;
+}
