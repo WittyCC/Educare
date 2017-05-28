@@ -23,6 +23,9 @@ h2 {
   font-size: 150%;
 }
 
+.panel-body {
+  font-size: 120%
+}
 .peso {
   float: right;
 }
@@ -33,5 +36,17 @@ h2 {
 }
 
 .downpay {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+blockquote {
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 120%
+  margin-left: 12px;
+  margin-right: 12px;
   text-align: center;
 }
